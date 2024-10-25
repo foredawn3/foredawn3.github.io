@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>第二篇文章</title>
+      <link href="/2024/07/23/second/"/>
+      <url>/2024/07/23/second/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到 简言的博客！这是我的第二篇文章。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> test </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2024/07/20/hello-world/"/>
+      <url>/2024/07/20/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>欢迎来到 简言的博客！这是我的第一篇文章。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> test1 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<h4 id="欢迎来到我的博客！我叫简言。这个博客是为了记录我的生活-思考-🤔，并与各位旅行者一起交流-探讨-学习。希望我的博客能带给你一些有益的信息。期待与你一起探索-分享-成长，欢迎你关注我，并留下你的评论！"><a href="#欢迎来到我的博客！我叫简言。这个博客是为了记录我的生活-思考-🤔，并与各位旅行者一起交流-探讨-学习。希望我的博客能带给你一些有益的信息。期待与你一起探索-分享-成长，欢迎你关注我，并留下你的评论！" class="headerlink" title="欢迎来到我的博客！我叫简言。这个博客是为了记录我的生活&#x2F;思考 🤔，并与各位旅行者一起交流&#x2F;探讨&#x2F;学习。希望我的博客能带给你一些有益的信息。期待与你一起探索&#x2F;分享&#x2F;成长，欢迎你关注我，并留下你的评论！"></a>欢迎来到我的博客！我叫简言。这个博客是为了记录我的生活&#x2F;思考 🤔，并与各位旅行者一起交流&#x2F;探讨&#x2F;学习。希望我的博客能带给你一些有益的信息。期待与你一起探索&#x2F;分享&#x2F;成长，欢迎你关注我，并留下你的评论！</h4>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
+      
+        <content type="html"><![CDATA[<iframe src="/videos/bigBang.mp4" width='100%' height='500px' ></iframe>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>相册</title>
+      <link href="/photo/index.html"/>
+      <url>/photo/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="gallery-group-main"><figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸</div>  <p>收藏的一些壁纸</p>  <a href='/photo/wallpaper'></a>  </figcaption>  </figure>  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/8t97aVlp4hgyBGu.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">漫威</div>  <p>关于漫威的图片</p>  <a href='/photo/marvel'></a>  </figcaption>  </figure>  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://i.loli.net/2019/12/25/hOqbQ3BIwa6KWpo.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">OH MY GIRL</div>  <p>关于OH MY GIRL的图片</p>  <a href='/photo/ohmygirl'></a>  </figcaption>  </figure>  </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>照片</title>
+      <link href="/photo/ohmygirl/index.html"/>
+      <url>/photo/ohmygirl/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="gallery-group-main"><div class="gallery-container" data-type="data" data-button="">      <div class="gallery-data">[{"url":"https://i.loli.net/2019/12/25/Fze9jchtnyJXMHN.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/ryLVePaqkYm4TEK.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/gEy5Zc1Ai6VuO4N.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/d6QHbytlSYO4FBG.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/6nepIJ1xTgufatZ.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/E7Jvr4eIPwUNmzq.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/mh19anwBSWIkGlH.jpg","alt":""},{"url":"https://i.loli.net/2019/12/25/2tu9JC8ewpBFagv.jpg","alt":""}]</div>      <div class="gallery-items">      </div>    </div></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>demo</title>
+      <link href="/code/index.html"/>
+      <url>/code/index.html</url>
+      
+        <content type="html"><![CDATA[<style>      * {        margin: 0;        padding: 0;      }      .container2 {        display: flex;        justify-content: center;        align-items: center;        height: 100vh;      }</style><div class="container2">      <iframe        width="100%"        height="100%"        src="./codes/Expanding Cards/"        scrolling="no"        frameborder="0"      ></iframe></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/index.html"/>
+      <url>/code/index.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="en">  <head>    <meta charset="UTF-8" />    <meta name="viewport" content="width=device-width, initial-scale=1.0" />    <title>Document</title>    <style>      * {        margin: 0;        padding: 0;      }      .container {        display: flex;        justify-content: center;        align-items: center;        height: 100vh;      }    </style>  </head>  <body>    <div class="container">      <iframe        width="100%"        height="100%"        src="./codes/Expanding Cards/"        scrolling="no"        frameborder="0"      ></iframe>    </div>  </body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/codes/Expanding%20Cards/css/my.css"/>
+      <url>/code/codes/Expanding%20Cards/css/my.css</url>
+      
+        <content type="html"><![CDATA[*{    margin: 0;    padding: 0;    box-sizing: border-box;}.big{    display: flex;    margin: auto;    margin-top: 10vh;    width: 80vw;    height: 80vh;    border-radius: 40px;}.big div{    position: relative;    flex: 1;    margin-right:30px;    border-radius: 40px;    background-color: aqua;    background-image: url(../img/1.avif);    background-position: center;    transition: all .7s ease-in;}.big div:last-child{    margin: 0;}.big div.active{    flex: 9;}.big div h3{    position: absolute;    bottom: 20px;    margin-left: 15px;    color: white;    opacity: 0;    transition: all .3s ease-in .2s;}.big div.active h3{    opacity: 1;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/codes/Expanding%20Cards/css/new_file.css"/>
+      <url>/code/codes/Expanding%20Cards/css/new_file.css</url>
+      
+        <content type="html"><![CDATA[@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');* {  box-sizing: border-box;}body {  font-family: 'Muli', sans-serif;  display: flex;  align-items: center;  justify-content: center;  height: 100vh;  overflow: hidden;  margin: 0;}.container {  display: flex;  width: 90vw;}.panel {  background-size: cover;  background-position: center;  background-repeat: no-repeat;  height: 80vh;  border-radius: 50px;  color: #fff;  cursor: pointer;  flex: 0.5;  margin: 10px;  position: relative;  -webkit-transition: all 700ms ease-in;}.panel h3 {  font-size: 24px;  position: absolute;  bottom: 20px;  left: 20px;  margin: 0;  opacity: 0;}.panel.active {  flex: 5;}.panel.active h3 {  opacity: 1;  transition: opacity 0.3s ease-in 0.4s;}@media (max-width: 480px) {  .container {    width: 100vw;  }  .panel:nth-of-type(4),  .panel:nth-of-type(5) {    display: none;  }}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/codes/Expanding%20Cards/js/my.js"/>
+      <url>/code/codes/Expanding%20Cards/js/my.js</url>
+      
+        <content type="html"><![CDATA[let a = document.querySelectorAll('.big div')for(let i =0;i<a.length ;i++){    a[i].addEventListener('click',function(){        for(let j=0;j<a.length;j++){            a[j].classList.remove('active')        }        this.classList.add('active')        this.childNodes[0].style.dispaly = 'block'    })}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/codes/Expanding%20Cards/js/new_file.js"/>
+      <url>/code/codes/Expanding%20Cards/js/new_file.js</url>
+      
+        <content type="html"><![CDATA[const panels = document.querySelectorAll('.panel')panels.forEach(panel => {    panel.addEventListener('click', () => {        removeActiveClasses()        panel.classList.add('active')    })})function removeActiveClasses() {    panels.forEach(panel => {        panel.classList.remove('active')    })}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/codes/Expanding%20Cards/my.html"/>
+      <url>/code/codes/Expanding%20Cards/my.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="en"><head>    <meta charset="UTF-8">    <meta name="viewport" content="width=device-width, initial-scale=1.0">    <link rel="stylesheet" href="./css/my.css">    <title>Document</title></head><body>    <div class="big">        <div class="one active">            <h3>Explore The World</h3>        </div>        <div class="two">            <h3>Explore The World</h3>        </div>        <div class="three">            <h3>Explore The World</h3>        </div>        <div class="four">            <h3>Explore The World</h3>        </div>        <div class="five">            <h3>Explore The World</h3>        </div>        <script src="./js/my.js"></script>    </div></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/code/codes/Expanding%20Cards/index.html"/>
+      <url>/code/codes/Expanding%20Cards/index.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE html><html lang="en">  <head>    <meta charset="UTF-8" />    <meta name="viewport" content="width=device-width, initial-scale=1.0" />    <link rel="stylesheet" href="css/new_file.css" />    <title>Expanding Cards</title>  </head>  <body>    <div class="container">      <div class="panel active" style="background-image: url('https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80')">        <h3>Explore The World</h3>      </div>      <div class="panel" style="background-image: url('https://images.unsplash.com/photo-1572276596237-5db2c3e16c5d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80')">        <h3>Wild Forest</h3>      </div>      <div class="panel" style="background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80')">        <h3>Sunny Beach</h3>      </div>      <div class="panel" style="background-image: url('https://images.unsplash.com/photo-1551009175-8a68da93d5f9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80')">        <h3>City on Winter</h3>      </div>      <div class="panel" style="background-image: url('https://images.unsplash.com/photo-1549880338-65ddcdfd017b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80')">        <h3>Mountains - Clouds</h3>      </div><script src="js/new_file.js"></script>    </div>  </body></html>]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
